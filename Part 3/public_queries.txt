@@ -1,0 +1,17 @@
+dory
+nemo dory
+nemo dory eat fish
+toy story
+"toy Story"
+dan AND potter
+potters AND dan
+"Buzz Lightyear"
+"Lightyear Buzz"
+"Mr Potato Head"
+dory OR neom
+(nemo AND dory) OR finding
+
+the
+"
+""
+AND
